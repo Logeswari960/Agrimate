@@ -1,0 +1,66 @@
+[
+  {
+    "id": "user_1781081262351",
+    "name": "Test Farmer",
+    "email": "test@agrimate.com",
+    "phone": "9876543210",
+    "passwordHash": "$2b$10$1rbyOfEKruqikmKTEhijAOJGPkzFlp1BKMNr753miTBwjbFnSqCxa",
+    "farm": {
+      "state": "Punjab",
+      "area": 12,
+      "crops": [
+        "Wheat",
+        "Cotton"
+      ]
+    },
+    "createdAt": "2026-06-10T08:47:42.351Z"
+  },
+  {
+    "id": "user_1781081788955",
+    "name": "ais",
+    "email": "ais@gmail.com",
+    "phone": "9566585325",
+    "passwordHash": "$2b$10$QZu/Jcn5TbisxdAbr2mrm.ZhMTW6qyJd4PrgEjSKyTOAQQDlm0puW",
+    "farm": {
+      "state": "Punjab",
+      "area": 12,
+      "crops": [
+        "Wheat",
+        "Cotton"
+      ]
+    },
+    "createdAt": "2026-06-10T08:56:28.956Z"
+  },
+  {
+    "id": "user_1781148154501",
+    "name": "aishu",
+    "email": "aishu@gmail.com",
+    "phone": "9999988888",
+    "passwordHash": "$2b$10$ywMfg7C9TZSBSrzLihLLq.b/v8vPjB7UiASaj/n7dPuYR7YN20cNy",
+    "farm": {
+      "state": "Punjab",
+      "area": 12,
+      "crops": [
+        "Wheat",
+        "Cotton"
+      ]
+    },
+    "createdAt": "2026-06-11T03:22:34.501Z"
+  },
+  {
+    "id": "user_1781155145161",
+    "name": "Test Farmer",
+    "email": "farmer@test.com",
+    "phone": "9876543210",
+    "passwordHash": "$2b$10$KY5Q/z1yhB3LmIJMU6yx7OMg52HVntpU1XH0Tp6X1LEsyKXoh1OmS",
+    "farm": {
+      "state": "Punjab",
+      "area": 12,
+      "crops": [
+        "Wheat",
+        "Cotton"
+      ]
+    },
+    "createdAt": "2026-06-11T05:19:05.161Z"
+  }
+]
